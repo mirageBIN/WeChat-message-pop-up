@@ -20,6 +20,7 @@
 - 内置微信应用图标（WCLogo.png）
 - 自动适应不同分辨率
 - 图标加载失败时显示绿色替代图标
+
   <img width="564" height="189" alt="微信新消息弹窗" src="https://github.com/user-attachments/assets/b5e14899-fa50-44f7-a7de-0feedf33f974" />
 
 ### 🛠️ 后台监控
@@ -191,7 +192,8 @@ A: 当前仅支持个人微信。
 - Built-in WeChat application icon (WCLogo.png)
 - Automatically adapts to different screen resolutions
 - Displays green placeholder icon if loading fails
-  <img width="564" height="189" alt="WeChat New Message Popup" src="https://github.com/user-attachments/assets/b5e14899-fa50-44f7-a7de-0feedf33f974" />
+
+  <img width="564" height="189" alt="微信新消息弹窗" src="https://github.com/user-attachments/assets/b5e14899-fa50-44f7-a7de-0feedf33f974" />
 
 ### 🛠️ Background Monitoring
 - Real-time monitoring of WeChat conversation list
